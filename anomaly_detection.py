@@ -1,0 +1,7 @@
+"""
+Network Traffic Anomaly Detection Entry Script.
+"""
+from main import run_pipeline
+
+if __name__ == "__main__":
+    run_pipeline()
